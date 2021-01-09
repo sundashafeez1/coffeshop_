@@ -1,0 +1,16 @@
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShopNS.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShopNS.pdb
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShop.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\CoffeeShop.pdb
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.csprojAssemblyReference.cache
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.csproj.CoreCompileInputs.cache
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.csproj.CopyComplete
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.dll
+C:\Users\Saif Ali\source\repos\CoffeeShopNS\CoffeeShopNS\obj\Debug\CoffeeShopNS.pdb
